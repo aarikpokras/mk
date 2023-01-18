@@ -1,6 +1,8 @@
 # mk
 The worse alternative to Makefile
 
+[What's Makfile?](https://www3.nd.edu/~zxu2/acms60212-40212/Makefile.pdf)
+
 ## Syntax and Other Stuff
 Make a file called `__file` and put a comment in the top line that has a title of your choosing.
 ```bash

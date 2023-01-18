@@ -2,7 +2,7 @@
 The worse alternative to Makefile
 
 ## Syntax and Other Stuff
-Make a file called `__file` and put a comment in the front line that has a title of your choosing.
+Make a file called `__file` and put a comment in the top line that has a title of your choosing.
 ```bash
 #My Title
 ```
